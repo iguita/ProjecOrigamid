@@ -22,6 +22,5 @@
 ***Front-end:*** HTML e CSS
 
 ### Demonstração
-[Bikcraft](https://bikcraft-chi-puce.vercel.app)
 <hr>
 
