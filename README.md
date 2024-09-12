@@ -4,25 +4,25 @@
 ### Stack utilizada
 ***Front-end:*** HTML, CSS e JavaScript
 
-[assets](./animais-fantasticos.png)
+![](https://github.com/iguita/ProjectOrigamid/blob/main/assets/animais-fantasticos.png)
 
 ## [Wildbeast](./wildbeast)
 
 ### Stack utilizada
 ***Front-end:*** HTML e CSS
 
-[assets/wildbeast.png](./wildbeast.png)
+![](https://github.com/iguita/ProjectOrigamid/blob/main/assets/wildbeast.png)
 
 ## [FlexBlog](./flexblog)
 
 ### Stack utilizada
 ***Front-end:*** HTML e CSS
 
-[assets](./flexblog.png)
+![](https://github.com/iguita/ProjectOrigamid/blob/main/assets/flexblog.png)
 
 ## [Bikcraft](./bikcraft)
 
 ### Stack utilizada
 ***Front-end:*** HTML e CSS
 
-[assets](./bikcraft.png)
+![](https://github.com/iguita/ProjectOrigamid/blob/main/assets/bikcraft.png)
