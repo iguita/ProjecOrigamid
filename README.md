@@ -11,7 +11,7 @@
 ### Stack utilizada
 ***Front-end:*** HTML e CSS
 
-[assets/wildbeast.png]
+[assets/wildbeast.png](./wildbeast.png)
 
 ## [FlexBlog](./flexblog)
 
