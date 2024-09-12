@@ -10,7 +10,7 @@
 
 ### Stack utilizada
 ***Front-end:*** HTML e CSS
-[assets](./wildbeast.png)
+[assets](./assets/wildbeast.png)
 
 ## [FlexBlog](./flexblog)
 
